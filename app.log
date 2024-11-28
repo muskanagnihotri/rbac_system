@@ -1,0 +1,81 @@
+2024-11-28 12:03:22,702 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-28 12:03:22,702 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 12:03:22,709 - INFO -  * Restarting with stat
+2024-11-28 12:03:23,199 - WARNING -  * Debugger is active!
+2024-11-28 12:03:23,206 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 12:04:04,518 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Pro\\main.py', reloading
+2024-11-28 12:04:04,632 - INFO -  * Restarting with stat
+2024-11-28 12:04:05,724 - WARNING -  * Debugger is active!
+2024-11-28 12:04:05,728 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 12:04:24,899 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Pro\\main.py', reloading
+2024-11-28 12:04:24,992 - INFO -  * Restarting with stat
+2024-11-28 12:04:25,539 - WARNING -  * Debugger is active!
+2024-11-28 12:04:25,547 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 12:09:33,024 - INFO - 127.0.0.1 - - [28/Nov/2024 12:09:33] "[31m[1mGET /auth/register HTTP/1.1[0m" 405 -
+2024-11-28 12:11:56,148 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Pro\\main.py', reloading
+2024-11-28 12:11:56,265 - INFO -  * Restarting with stat
+2024-11-28 12:13:11,323 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-28 12:13:11,324 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 12:13:11,327 - INFO -  * Restarting with stat
+2024-11-28 12:13:11,827 - WARNING -  * Debugger is active!
+2024-11-28 12:13:11,831 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 12:13:54,449 - INFO - 127.0.0.1 - - [28/Nov/2024 12:13:54] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 12:14:26,922 - INFO - 127.0.0.1 - - [28/Nov/2024 12:14:26] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 12:14:44,858 - INFO - 127.0.0.1 - - [28/Nov/2024 12:14:44] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 12:15:03,180 - INFO - 127.0.0.1 - - [28/Nov/2024 12:15:03] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 12:15:21,057 - INFO - 127.0.0.1 - - [28/Nov/2024 12:15:21] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 12:15:58,744 - INFO - 127.0.0.1 - - [28/Nov/2024 12:15:58] "[31m[1mGET /admin/users HTTP/1.1[0m" 401 -
+2024-11-28 12:17:32,403 - INFO - 127.0.0.1 - - [28/Nov/2024 12:17:32] "[31m[1mGET /auth/login HTTP/1.1[0m" 405 -
+2024-11-28 12:17:40,766 - INFO - 127.0.0.1 - - [28/Nov/2024 12:17:40] "POST /auth/login HTTP/1.1" 200 -
+2024-11-28 12:18:29,357 - INFO - 127.0.0.1 - - [28/Nov/2024 12:18:29] "[31m[1mGET /role/profile HTTP/1.1[0m" 401 -
+2024-11-28 12:18:52,700 - INFO - 127.0.0.1 - - [28/Nov/2024 12:18:52] "[31m[1mGET /admin/users HTTP/1.1[0m" 401 -
+2024-11-28 12:21:45,705 - INFO - 127.0.0.1 - - [28/Nov/2024 12:21:45] "[31m[1mGET /auth/register HTTP/1.1[0m" 405 -
+2024-11-28 12:21:53,021 - INFO - 127.0.0.1 - - [28/Nov/2024 12:21:53] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 12:22:47,538 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Pro\\main.py', reloading
+2024-11-28 12:22:47,641 - INFO -  * Restarting with stat
+2024-11-28 12:22:48,222 - WARNING -  * Debugger is active!
+2024-11-28 12:22:48,231 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 12:22:51,262 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Pro\\main.py', reloading
+2024-11-28 12:22:51,350 - INFO -  * Restarting with stat
+2024-11-28 12:22:52,076 - WARNING -  * Debugger is active!
+2024-11-28 12:22:52,080 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 12:22:57,130 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Pro\\main.py', reloading
+2024-11-28 12:22:57,207 - INFO -  * Restarting with stat
+2024-11-28 12:22:57,818 - WARNING -  * Debugger is active!
+2024-11-28 12:22:57,822 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 12:23:41,266 - INFO - 127.0.0.1 - - [28/Nov/2024 12:23:41] "[31m[1mGET /admin/users HTTP/1.1[0m" 401 -
+2024-11-28 12:25:56,876 - INFO - 127.0.0.1 - - [28/Nov/2024 12:25:56] "[31m[1mGET /admin/users HTTP/1.1[0m" 401 -
+2024-11-28 12:26:55,516 - INFO - 127.0.0.1 - - [28/Nov/2024 12:26:55] "POST /auth/login HTTP/1.1" 200 -
+2024-11-28 12:28:10,938 - INFO - 127.0.0.1 - - [28/Nov/2024 12:28:10] "[31m[1mPOST /admin/users HTTP/1.1[0m" 405 -
+2024-11-28 12:28:16,383 - INFO - 127.0.0.1 - - [28/Nov/2024 12:28:16] "[31m[1mGET /admin/users HTTP/1.1[0m" 422 -
+2024-11-28 12:28:32,631 - INFO - 127.0.0.1 - - [28/Nov/2024 12:28:32] "[31m[1mGET /admin/users HTTP/1.1[0m" 422 -
+2024-11-28 12:30:05,381 - INFO - 127.0.0.1 - - [28/Nov/2024 12:30:05] "[33mGET /admin/profile HTTP/1.1[0m" 404 -
+2024-11-28 12:30:32,560 - INFO - 127.0.0.1 - - [28/Nov/2024 12:30:32] "[31m[1mGET /role/profile HTTP/1.1[0m" 422 -
+2024-11-28 12:32:02,186 - INFO - 127.0.0.1 - - [28/Nov/2024 12:32:02] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 12:32:36,305 - INFO - 127.0.0.1 - - [28/Nov/2024 12:32:36] "[33mGET /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 12:32:42,285 - INFO - 127.0.0.1 - - [28/Nov/2024 12:32:42] "[33mPOST /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 12:33:24,953 - INFO - 127.0.0.1 - - [28/Nov/2024 12:33:24] "[33mPOST /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 12:34:53,824 - INFO - 127.0.0.1 - - [28/Nov/2024 12:34:53] "[33mPOST /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 12:41:11,524 - INFO - 127.0.0.1 - - [28/Nov/2024 12:41:11] "[33mPOST /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:39:27,523 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-28 16:39:27,525 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-28 16:39:27,531 - INFO -  * Restarting with stat
+2024-11-28 16:39:27,955 - WARNING -  * Debugger is active!
+2024-11-28 16:39:27,961 - INFO -  * Debugger PIN: 121-191-230
+2024-11-28 16:41:08,201 - INFO - 127.0.0.1 - - [28/Nov/2024 16:41:08] "[31m[1mGET /role/profile HTTP/1.1[0m" 422 -
+2024-11-28 16:42:10,118 - INFO - 127.0.0.1 - - [28/Nov/2024 16:42:10] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2024-11-28 16:42:38,251 - INFO - 127.0.0.1 - - [28/Nov/2024 16:42:38] "[33mPOST /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:43:36,956 - INFO - 127.0.0.1 - - [28/Nov/2024 16:43:36] "[33mPOST /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:44:25,713 - INFO - 127.0.0.1 - - [28/Nov/2024 16:44:25] "[33mPOST /auth/login%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:45:14,247 - INFO - 127.0.0.1 - - [28/Nov/2024 16:45:14] "POST /auth/login HTTP/1.1" 200 -
+2024-11-28 16:48:10,343 - INFO - 127.0.0.1 - - [28/Nov/2024 16:48:10] "[33mPOST /role/profile%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:48:46,123 - INFO - 127.0.0.1 - - [28/Nov/2024 16:48:46] "[33mGET /role/profile%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:50:46,449 - INFO - 127.0.0.1 - - [28/Nov/2024 16:50:46] "[33mGET /role/profile%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:54:28,866 - INFO - 127.0.0.1 - - [28/Nov/2024 16:54:28] "[33mGET /role/profile%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:54:51,630 - INFO - 127.0.0.1 - - [28/Nov/2024 16:54:51] "[33mGET /role/profile%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:55:41,017 - INFO - 127.0.0.1 - - [28/Nov/2024 16:55:41] "[33mGET /role/profile%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:57:12,434 - INFO - 127.0.0.1 - - [28/Nov/2024 16:57:12] "[33mGET /role/profile%0A HTTP/1.1[0m" 404 -
+2024-11-28 16:58:10,432 - INFO - 127.0.0.1 - - [28/Nov/2024 16:58:10] "[33mGET /admin/users%0A HTTP/1.1[0m" 404 -
